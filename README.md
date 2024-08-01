@@ -3,12 +3,14 @@
 ## Description
 
 I created a portfolio website to collect all of my projects in one place. \
-I hope to add to this portfolio as I move through the course and use it to display my work to potential employers.
+I hope to add to this portfolio as I move through the course and use it to display my work to potential employers. \
+I have reconfigured this portfolio using Vite and React.
 
 ## Usage
 
-Each card is a link to the project, with contact details at the bottom of the page. \
-Technologies used: HTML & CSS
+I ran npm create vite and followed the steps to create a Vite template. \
+Then I used npm run build to create a dist folder and deployed the site to Netlify. \
+Technologies used: Vite and React
 
 ## License
 
