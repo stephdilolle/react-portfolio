@@ -65,6 +65,13 @@ const projects = [
         image: 'images/regex.PNG',
         description: 'An explanation and tutorial on how to use regular expressions (Regex)',
         technologies: 'Gist'
+    },
+    {
+        title: 'The Book Nook',
+        link: 'https://the-book-nook-8cgy.onrender.com/',
+        image: 'images/booknook.png',
+        description: 'An online book store where users can browse and search for books',
+        technologies: 'Google Books API, React, Radix UI, Vite, MongoDB, JWT, Apollo, GraphQL, Express.js, Node.js, bcrypt, dotenv'
     }
 ];
 
